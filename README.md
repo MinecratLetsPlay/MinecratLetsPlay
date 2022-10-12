@@ -1,6 +1,4 @@
-Hello
-
-Im Minecraft Lets Play
+Hello, im Minecraft Lets Play
 
 And you guessed it!
 I Like playing Minecraft (especially Modpacks)
