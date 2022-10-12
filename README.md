@@ -7,7 +7,7 @@ I Like playing Minecraft (especially Modpacks)
 
 But i also like Programming!
 
-I like coding Batch scripts and Programming C++
+I like writing Batch scripts and Programming C++
 
 I Coded an Large Admin tool in Batch and i have some C++ Projects (My biggest at the moment is a Password Generator)
 
